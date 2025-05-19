@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tejas-987/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Tejas-987/DSA/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-987/DSA/tree/master/0149-max-points-on-a-line) |
+| [0273-integer-to-english-words](https://github.com/Tejas-987/DSA/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Tejas-987/DSA/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Tejas-987/DSA/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Tejas-987/DSA/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0214-shortest-palindrome) |
+| [0273-integer-to-english-words](https://github.com/Tejas-987/DSA/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
 | ------- |
