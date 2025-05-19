@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejas-987/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Tejas-987/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Tejas-987/DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Tejas-987/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Tejas-987/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Tejas-987/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tejas-987/DSA/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Tejas-987/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Tejas-987/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
