@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tejas-987/DSA/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/Tejas-987/DSA/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Tejas-987/DSA/tree/master/0165-compare-version-numbers) |
+| [0214-shortest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0214-shortest-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -219,4 +220,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
