@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tejas-987/DSA/tree/master/0200-number-of-islands) |
 | [0330-patching-array](https://github.com/Tejas-987/DSA/tree/master/0330-patching-array) |
 | [0493-reverse-pairs](https://github.com/Tejas-987/DSA/tree/master/0493-reverse-pairs) |
+| [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Tejas-987/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Tejas-987/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0088-merge-sorted-array) |
+| [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tejas-987/DSA/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/Tejas-987/DSA/tree/master/0330-patching-array) |
+| [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tejas-987/DSA/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
