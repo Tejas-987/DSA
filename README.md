@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Tejas-987/DSA/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Tejas-987/DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejas-987/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Tejas-987/DSA/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/Tejas-987/DSA/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Tejas-987/DSA/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Tejas-987/DSA/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Tejas-987/DSA/tree/master/0394-decode-string) |
 ## Matrix
 |  |
 | ------- |
