@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Tejas-987/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Tejas-987/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tejas-987/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0088-merge-sorted-array) |
@@ -13,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Tejas-987/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Tejas-987/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tejas-987/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Tejas-987/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Tejas-987/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0088-merge-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
