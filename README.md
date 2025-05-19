@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tejas-987/DSA/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/Tejas-987/DSA/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/Tejas-987/DSA/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -168,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejas-987/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Tejas-987/DSA/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/Tejas-987/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Tejas-987/DSA/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejas-987/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Tejas-987/DSA/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Tejas-987/DSA/tree/master/0402-remove-k-digits) |
 ## String
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Tejas-987/DSA/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Tejas-987/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Tejas-987/DSA/tree/master/0402-remove-k-digits) |
 ## Matrix
 |  |
 | ------- |
