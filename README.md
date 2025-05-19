@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tejas-987/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Tejas-987/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Tejas-987/DSA/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-987/DSA/tree/master/0149-max-points-on-a-line) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tejas-987/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Tejas-987/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Tejas-987/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Tejas-987/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Tejas-987/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Tejas-987/DSA/tree/master/0140-word-break-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tejas-987/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Tejas-987/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Tejas-987/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Tejas-987/DSA/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/Tejas-987/DSA/tree/master/0140-word-break-ii) |
