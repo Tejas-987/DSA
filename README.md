@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Tejas-987/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Tejas-987/DSA/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Tejas-987/DSA/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Tejas-987/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Tejas-987/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tejas-987/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Tejas-987/DSA/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
