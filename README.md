@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Tejas-987/DSA/tree/master/1240-stone-game-ii) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Tejas-987/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1511-count-number-of-teams](https://github.com/Tejas-987/DSA/tree/master/1511-count-number-of-teams) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Tejas-987/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tejas-987/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Tejas-987/DSA/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tejas-987/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Tejas-987/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
