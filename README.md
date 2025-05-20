@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tejas-987/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-987/DSA/tree/master/0149-max-points-on-a-line) |
+| [0231-power-of-two](https://github.com/Tejas-987/DSA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tejas-987/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Tejas-987/DSA/tree/master/0273-integer-to-english-words) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tejas-987/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Tejas-987/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Tejas-987/DSA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tejas-987/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Tejas-987/DSA/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Tejas-987/DSA/tree/master/0394-decode-string) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tejas-987/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Tejas-987/DSA/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Tejas-987/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Tejas-987/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Tejas-987/DSA/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Tejas-987/DSA/tree/master/0397-integer-replacement) |
 ## Depth-First Search
