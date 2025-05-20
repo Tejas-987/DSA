@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Tejas-987/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Tejas-987/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Tejas-987/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tejas-987/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Tejas-987/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tejas-987/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tejas-987/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3548-find-the-count-of-good-integers](https://github.com/Tejas-987/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejas-987/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Tejas-987/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tejas-987/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Tejas-987/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Tejas-987/DSA/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
