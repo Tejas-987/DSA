@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tejas-987/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tejas-987/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Tejas-987/DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Tejas-987/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Tejas-987/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Tejas-987/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
