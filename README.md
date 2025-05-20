@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Tejas-987/DSA/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/Tejas-987/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Tejas-987/DSA/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/Tejas-987/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/Tejas-987/DSA/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tejas-987/DSA/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tejas-987/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Tejas-987/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/Tejas-987/DSA/tree/master/0518-coin-change-ii) |
 | [0664-strange-printer](https://github.com/Tejas-987/DSA/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejas-987/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Tejas-987/DSA/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/Tejas-987/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Tejas-987/DSA/tree/master/0493-reverse-pairs) |
