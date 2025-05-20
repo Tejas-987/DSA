@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tejas-987/DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tejas-987/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/Tejas-987/DSA/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Tejas-987/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2998-count-symmetric-integers](https://github.com/Tejas-987/DSA/tree/master/2998-count-symmetric-integers) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Tejas-987/DSA/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Data Stream
 |  |
