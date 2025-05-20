@@ -1,0 +1,26 @@
+#include <vector>
+#include <map>
+using namespace std;
+
+class Solution {
+public:
+    int maxSubarrayLength(vector<int>& nums, int k) {
+        map<int, int> mp;
+        int i = 0, j = 0, n = nums.size(), ans = 0;
+        while (j < n) {
+            mp[nums[j]]++;
+            if (mp[nums[j]] > k) {
+                while (mp[nums[j]] > k) {
+                    mp[nums[i]]--;
+                    if (mp[nums[i]] == 0) {
+                        mp.erase(nums[i]);
+                    }
+                    i++;
+                }
+            }
+            ans = max(ans, j - i + 1);
+            j++;
+        }
+        return ans;
+    }
+};
