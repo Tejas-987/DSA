@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Tejas-987/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Tejas-987/DSA/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Tejas-987/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tejas-987/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tejas-987/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tejas-987/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Tejas-987/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Tejas-987/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tejas-987/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tejas-987/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Tejas-987/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2571-find-the-pivot-integer](https://github.com/Tejas-987/DSA/tree/master/2571-find-the-pivot-integer) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tejas-987/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-987/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2478-longest-nice-subarray](https://github.com/Tejas-987/DSA/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Tejas-987/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tejas-987/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-987/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Tejas-987/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Tejas-987/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tejas-987/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
 | ------- |
