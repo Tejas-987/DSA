@@ -53,7 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Tejas-987/DSA/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Tejas-987/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejas-987/DSA/tree/master/0966-binary-subarrays-with-sum) |
-| [1025-minimum-cost-for-tickets](https://github.com/Tejas-987/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejas-987/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/Tejas-987/DSA/tree/master/1044-find-common-characters) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
@@ -137,7 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Tejas-987/DSA/tree/master/0863-sum-of-distances-in-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Tejas-987/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
-| [1025-minimum-cost-for-tickets](https://github.com/Tejas-987/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Tejas-987/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Recursion
