@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Tejas-987/DSA/tree/master/1511-count-number-of-teams) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-987/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tejas-987/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Tejas-987/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tejas-987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Tejas-987/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/Tejas-987/DSA/tree/master/0876-hand-of-straights) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Tejas-987/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-987/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tejas-987/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2155-find-missing-observations](https://github.com/Tejas-987/DSA/tree/master/2155-find-missing-observations) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Tejas-987/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0738-monotone-increasing-digits](https://github.com/Tejas-987/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0876-hand-of-straights](https://github.com/Tejas-987/DSA/tree/master/0876-hand-of-straights) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sliding Window
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Tejas-987/DSA/tree/master/1240-stone-game-ii) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Shortest Path
 |  |
 | ------- |
