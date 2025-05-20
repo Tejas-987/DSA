@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tejas-987/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tejas-987/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Tejas-987/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Tejas-987/DSA/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Tejas-987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Tejas-987/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Tejas-987/DSA/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Tejas-987/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Tejas-987/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Tejas-987/DSA/tree/master/3779-eat-pizzas) |
 ## Math
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Tejas-987/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Tejas-987/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Tejas-987/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Tejas-987/DSA/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Tejas-987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tejas-987/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tejas-987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tejas-987/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Tejas-987/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Tejas-987/DSA/tree/master/2379-maximum-total-importance-of-roads) |
 | [2681-put-marbles-in-bags](https://github.com/Tejas-987/DSA/tree/master/2681-put-marbles-in-bags) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Tejas-987/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Rolling Hash
 |  |
 | ------- |
