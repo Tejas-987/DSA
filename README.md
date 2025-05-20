@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Tejas-987/DSA/tree/master/1511-count-number-of-teams) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-987/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Tejas-987/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tejas-987/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tejas-987/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Tejas-987/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Tejas-987/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1018-largest-perimeter-triangle](https://github.com/Tejas-987/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Tejas-987/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tejas-987/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Tejas-987/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tejas-987/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Tejas-987/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tejas-987/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
