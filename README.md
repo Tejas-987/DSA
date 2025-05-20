@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tejas-987/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tejas-987/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Tejas-987/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Tejas-987/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tejas-987/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Tejas-987/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/Tejas-987/DSA/tree/master/0567-permutation-in-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tejas-987/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-987/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tejas-987/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejas-987/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tejas-987/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tejas-987/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tejas-987/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Tejas-987/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
