@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tejas-987/DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
 | [0518-coin-change-ii](https://github.com/Tejas-987/DSA/tree/master/0518-coin-change-ii) |
+| [0664-strange-printer](https://github.com/Tejas-987/DSA/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Tejas-987/DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Tejas-987/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Tejas-987/DSA/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Tejas-987/DSA/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
+| [0664-strange-printer](https://github.com/Tejas-987/DSA/tree/master/0664-strange-printer) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tejas-987/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
