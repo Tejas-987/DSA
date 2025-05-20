@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tejas-987/DSA/tree/master/0200-number-of-islands) |
 | [0330-patching-array](https://github.com/Tejas-987/DSA/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Tejas-987/DSA/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Tejas-987/DSA/tree/master/0518-coin-change-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Tejas-987/DSA/tree/master/0165-compare-version-numbers) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tejas-987/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejas-987/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Tejas-987/DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Tejas-987/DSA/tree/master/0493-reverse-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Tejas-987/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
