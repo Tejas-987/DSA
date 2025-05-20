@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Tejas-987/DSA/tree/master/3321-type-of-triangle) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tejas-987/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tejas-987/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3548-find-the-count-of-good-integers](https://github.com/Tejas-987/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Tejas-987/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tejas-987/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3548-find-the-count-of-good-integers](https://github.com/Tejas-987/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union Find
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2998-count-symmetric-integers](https://github.com/Tejas-987/DSA/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Tejas-987/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Tejas-987/DSA/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Data Stream
 |  |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Tejas-987/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3548-find-the-count-of-good-integers](https://github.com/Tejas-987/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Tejas-987/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
