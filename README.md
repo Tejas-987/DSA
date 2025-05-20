@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tejas-987/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Tejas-987/DSA/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Tejas-987/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Tejas-987/DSA/tree/master/1240-stone-game-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Tejas-987/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Tejas-987/DSA/tree/master/0402-remove-k-digits) |
 | [0539-minimum-time-difference](https://github.com/Tejas-987/DSA/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Tejas-987/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Tejas-987/DSA/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
