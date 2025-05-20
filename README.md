@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Tejas-987/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Tejas-987/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Tejas-987/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Tejas-987/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tejas-987/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Tejas-987/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Tejas-987/DSA/tree/master/0055-jump-game) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tejas-987/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Tejas-987/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tejas-987/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Tejas-987/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Tejas-987/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-987/DSA/tree/master/0149-max-points-on-a-line) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tejas-987/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tejas-987/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Tejas-987/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Tejas-987/DSA/tree/master/0079-word-search) |
