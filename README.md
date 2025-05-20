@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tejas-987/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Tejas-987/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejas-987/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tejas-987/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Tejas-987/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tejas-987/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Tejas-987/DSA/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tejas-987/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Tejas-987/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/Tejas-987/DSA/tree/master/0876-hand-of-straights) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Tejas-987/DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Tejas-987/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tejas-987/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Tejas-987/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Tejas-987/DSA/tree/master/1240-stone-game-ii) |
