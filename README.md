@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/Tejas-987/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0870-magic-squares-in-grid](https://github.com/Tejas-987/DSA/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
+| [1195-distribute-candies-to-people](https://github.com/Tejas-987/DSA/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/Tejas-987/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Tejas-987/DSA/tree/master/1240-stone-game-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Tejas-987/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tejas-987/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Tejas-987/DSA/tree/master/0067-add-binary) |
+| [1195-distribute-candies-to-people](https://github.com/Tejas-987/DSA/tree/master/1195-distribute-candies-to-people) |
 ## Bit Manipulation
 |  |
 | ------- |
