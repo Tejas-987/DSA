@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Tejas-987/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tejas-987/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Tejas-987/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Tejas-987/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-987/DSA/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tejas-987/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tejas-987/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Tejas-987/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Tejas-987/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Tejas-987/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Tejas-987/DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Tejas-987/DSA/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/Tejas-987/DSA/tree/master/0140-word-break-ii) |
@@ -388,9 +390,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tejas-987/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Tejas-987/DSA/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tejas-987/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Tejas-987/DSA/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Tejas-987/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0338-counting-bits](https://github.com/Tejas-987/DSA/tree/master/0338-counting-bits) |
