@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tejas-987/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tejas-987/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tejas-987/DSA/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tejas-987/DSA/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tejas-987/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-987/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tejas-987/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tejas-987/DSA/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2444-longest-ideal-subsequence](https://github.com/Tejas-987/DSA/tree/master/2444-longest-ideal-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejas-987/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
