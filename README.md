@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Tejas-987/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Tejas-987/DSA/tree/master/2645-pass-the-pillow) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Tejas-987/DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Tejas-987/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Tejas-987/DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Sliding Window
 |  |
 | ------- |
