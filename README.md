@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tejas-987/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tejas-987/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3779-eat-pizzas](https://github.com/Tejas-987/DSA/tree/master/3779-eat-pizzas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Tejas-987/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Tejas-987/DSA/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Tejas-987/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3779-eat-pizzas](https://github.com/Tejas-987/DSA/tree/master/3779-eat-pizzas) |
 ## Math
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Tejas-987/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Tejas-987/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3779-eat-pizzas](https://github.com/Tejas-987/DSA/tree/master/3779-eat-pizzas) |
 ## Sliding Window
 |  |
 | ------- |
