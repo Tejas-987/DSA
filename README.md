@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tejas-987/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3779-eat-pizzas](https://github.com/Tejas-987/DSA/tree/master/3779-eat-pizzas) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Tejas-987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Tejas-987/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Tejas-987/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3779-eat-pizzas](https://github.com/Tejas-987/DSA/tree/master/3779-eat-pizzas) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Tejas-987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Tejas-987/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Tejas-987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Union Find
 |  |
 | ------- |
