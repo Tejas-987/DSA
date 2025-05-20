@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tejas-987/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
 | [0518-coin-change-ii](https://github.com/Tejas-987/DSA/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Tejas-987/DSA/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tejas-987/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 ## Union Find
 |  |
 | ------- |
