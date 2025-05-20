@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tejas-987/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Tejas-987/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Tejas-987/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Tejas-987/DSA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tejas-987/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tejas-987/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Tejas-987/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0432-all-oone-data-structure](https://github.com/Tejas-987/DSA/tree/master/0432-all-oone-data-structure) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tejas-987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tejas-987/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
