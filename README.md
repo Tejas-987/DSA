@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Tejas-987/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Tejas-987/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Tejas-987/DSA/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/Tejas-987/DSA/tree/master/0518-coin-change-ii) |
 | [0664-strange-printer](https://github.com/Tejas-987/DSA/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Tejas-987/DSA/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Tejas-987/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0338-counting-bits](https://github.com/Tejas-987/DSA/tree/master/0338-counting-bits) |
 ## Depth-First Search
 |  |
 | ------- |
