@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tejas-987/DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tejas-987/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tejas-987/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Tejas-987/DSA/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Tejas-987/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/Tejas-987/DSA/tree/master/3055-maximum-odd-binary-number) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Tejas-987/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tejas-987/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tejas-987/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tejas-987/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tejas-987/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Tejas-987/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Tejas-987/DSA/tree/master/2610-closest-prime-numbers-in-range) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tejas-987/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Tejas-987/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Tejas-987/DSA/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Binary Search Tree
