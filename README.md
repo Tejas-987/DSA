@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tejas-987/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Tejas-987/DSA/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-987/DSA/tree/master/0149-max-points-on-a-line) |
+| [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Tejas-987/DSA/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Tejas-987/DSA/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/Tejas-987/DSA/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Tejas-987/DSA/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
 | [0518-coin-change-ii](https://github.com/Tejas-987/DSA/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Tejas-987/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-987/DSA/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/Tejas-987/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Union Find
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 ## Rolling Hash
 |  |
