@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Tejas-987/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Tejas-987/DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3321-type-of-triangle](https://github.com/Tejas-987/DSA/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Tejas-987/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/Tejas-987/DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Tejas-987/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tejas-987/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Tejas-987/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/Tejas-987/DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejas-987/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Tejas-987/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Tejas-987/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Tejas-987/DSA/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Tejas-987/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tejas-987/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Tejas-987/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
 |  |
