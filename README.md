@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-987/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tejas-987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Tejas-987/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2155-find-missing-observations](https://github.com/Tejas-987/DSA/tree/master/2155-find-missing-observations) |
 | [2262-solving-questions-with-brainpower](https://github.com/Tejas-987/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Tejas-987/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-987/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Tejas-987/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tejas-987/DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Tejas-987/DSA/tree/master/3001-apply-operations-to-maximize-score) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Tejas-987/DSA/tree/master/0621-task-scheduler) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Tejas-987/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Tejas-987/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Rolling Hash
 |  |
