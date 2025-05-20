@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tejas-987/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tejas-987/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1755-defuse-the-bomb](https://github.com/Tejas-987/DSA/tree/master/1755-defuse-the-bomb) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Tejas-987/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Tejas-987/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-987/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tejas-987/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tejas-987/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-987/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1755-defuse-the-bomb](https://github.com/Tejas-987/DSA/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
