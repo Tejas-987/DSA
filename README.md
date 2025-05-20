@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Tejas-987/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejas-987/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejas-987/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/Tejas-987/DSA/tree/master/1044-find-common-characters) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Tejas-987/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Tejas-987/DSA/tree/master/1044-find-common-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-987/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Matrix
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-987/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Tejas-987/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejas-987/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Tejas-987/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Linked List
