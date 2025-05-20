@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Tejas-987/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/Tejas-987/DSA/tree/master/1240-stone-game-ii) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Tejas-987/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1511-count-number-of-teams](https://github.com/Tejas-987/DSA/tree/master/1511-count-number-of-teams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Tejas-987/DSA/tree/master/1240-stone-game-ii) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Tejas-987/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tejas-987/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/Tejas-987/DSA/tree/master/1511-count-number-of-teams) |
 ## Recursion
 |  |
 | ------- |
@@ -185,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Tejas-987/DSA/tree/master/0493-reverse-pairs) |
+| [1511-count-number-of-teams](https://github.com/Tejas-987/DSA/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Tejas-987/DSA/tree/master/0493-reverse-pairs) |
+| [1511-count-number-of-teams](https://github.com/Tejas-987/DSA/tree/master/1511-count-number-of-teams) |
 ## Merge Sort
 |  |
 | ------- |
