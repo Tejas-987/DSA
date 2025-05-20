@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Tejas-987/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Tejas-987/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2478-longest-nice-subarray](https://github.com/Tejas-987/DSA/tree/master/2478-longest-nice-subarray) |
 | [2681-put-marbles-in-bags](https://github.com/Tejas-987/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Tejas-987/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tejas-987/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Tejas-987/DSA/tree/master/2478-longest-nice-subarray) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Tejas-987/DSA/tree/master/0891-score-after-flipping-matrix) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tejas-987/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-987/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2478-longest-nice-subarray](https://github.com/Tejas-987/DSA/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Tejas-987/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
