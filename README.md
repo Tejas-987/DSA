@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Tejas-987/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tejas-987/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2155-find-missing-observations](https://github.com/Tejas-987/DSA/tree/master/2155-find-missing-observations) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Tejas-987/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2262-solving-questions-with-brainpower](https://github.com/Tejas-987/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Tejas-987/DSA/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/Tejas-987/DSA/tree/master/0853-most-profit-assigning-work) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejas-987/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Tejas-987/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Tejas-987/DSA/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Sorting
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-987/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Tejas-987/DSA/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tejas-987/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Tejas-987/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Tejas-987/DSA/tree/master/3001-apply-operations-to-maximize-score) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Tejas-987/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Tejas-987/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Tejas-987/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejas-987/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tejas-987/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Tejas-987/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tejas-987/DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Tejas-987/DSA/tree/master/3001-apply-operations-to-maximize-score) |
@@ -636,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-987/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-987/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Tejas-987/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Counting
 |  |
 | ------- |
@@ -717,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Tejas-987/DSA/tree/master/1285-balance-a-binary-search-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Tejas-987/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
