@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
+| [0870-magic-squares-in-grid](https://github.com/Tejas-987/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Tejas-987/DSA/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Tejas-987/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejas-987/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejas-987/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Tejas-987/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Tejas-987/DSA/tree/master/0738-monotone-increasing-digits) |
+| [0870-magic-squares-in-grid](https://github.com/Tejas-987/DSA/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Tejas-987/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Tejas-987/DSA/tree/master/1240-stone-game-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
+| [0870-magic-squares-in-grid](https://github.com/Tejas-987/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Tejas-987/DSA/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Tejas-987/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tejas-987/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tejas-987/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Tejas-987/DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Tejas-987/DSA/tree/master/0200-number-of-islands) |
+| [0870-magic-squares-in-grid](https://github.com/Tejas-987/DSA/tree/master/0870-magic-squares-in-grid) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Tejas-987/DSA/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tejas-987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Simulation
