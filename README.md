@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-987/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0432-all-oone-data-structure](https://github.com/Tejas-987/DSA/tree/master/0432-all-oone-data-structure) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tejas-987/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejas-987/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -300,4 +301,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-987/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Tejas-987/DSA/tree/master/0432-all-oone-data-structure) |
+## Design
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Tejas-987/DSA/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Tejas-987/DSA/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
