@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Tejas-987/DSA/tree/master/0891-score-after-flipping-matrix) |
 | [1018-largest-perimeter-triangle](https://github.com/Tejas-987/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/Tejas-987/DSA/tree/master/1285-balance-a-binary-search-tree) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Tejas-987/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Tejas-987/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tejas-987/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tejas-987/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Tejas-987/DSA/tree/master/1044-find-common-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Tejas-987/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-987/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tejas-987/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2444-longest-ideal-subsequence](https://github.com/Tejas-987/DSA/tree/master/2444-longest-ideal-subsequence) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tejas-987/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejas-987/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Tejas-987/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Tejas-987/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Tejas-987/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
