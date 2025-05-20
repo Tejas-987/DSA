@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Tejas-987/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2571-find-the-pivot-integer](https://github.com/Tejas-987/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Tejas-987/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Tejas-987/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-987/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tejas-987/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2571-find-the-pivot-integer](https://github.com/Tejas-987/DSA/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
 | ------- |
