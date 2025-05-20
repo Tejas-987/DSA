@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Tejas-987/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Tejas-987/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tejas-987/DSA/tree/master/1087-longest-arithmetic-subsequence) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Tejas-987/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Tejas-987/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Tejas-987/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejas-987/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tejas-987/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Tejas-987/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-987/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Tejas-987/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tejas-987/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1240-stone-game-ii](https://github.com/Tejas-987/DSA/tree/master/1240-stone-game-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Tejas-987/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tejas-987/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-987/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tejas-987/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tejas-987/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Tejas-987/DSA/tree/master/1044-find-common-characters) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Tejas-987/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tejas-987/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-987/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tejas-987/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
