@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Tejas-987/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tejas-987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2155-find-missing-observations](https://github.com/Tejas-987/DSA/tree/master/2155-find-missing-observations) |
 | [2262-solving-questions-with-brainpower](https://github.com/Tejas-987/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Tejas-987/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-987/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tejas-987/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2155-find-missing-observations](https://github.com/Tejas-987/DSA/tree/master/2155-find-missing-observations) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Tejas-987/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Tejas-987/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tejas-987/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Tejas-987/DSA/tree/master/0067-add-binary) |
 | [1195-distribute-candies-to-people](https://github.com/Tejas-987/DSA/tree/master/1195-distribute-candies-to-people) |
+| [2155-find-missing-observations](https://github.com/Tejas-987/DSA/tree/master/2155-find-missing-observations) |
 ## Bit Manipulation
 |  |
 | ------- |
