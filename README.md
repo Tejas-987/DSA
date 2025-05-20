@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-987/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Tejas-987/DSA/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tejas-987/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejas-987/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Tejas-987/DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2444-longest-ideal-subsequence](https://github.com/Tejas-987/DSA/tree/master/2444-longest-ideal-subsequence) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tejas-987/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Tejas-987/DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejas-987/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
