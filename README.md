@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Tejas-987/DSA/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Tejas-987/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Tejas-987/DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-987/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/Tejas-987/DSA/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/Tejas-987/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tejas-987/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejas-987/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -207,12 +209,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Tejas-987/DSA/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/Tejas-987/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Tejas-987/DSA/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Tejas-987/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejas-987/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Tejas-987/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Tejas-987/DSA/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Tejas-987/DSA/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
