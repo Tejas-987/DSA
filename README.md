@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tejas-987/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Tejas-987/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Tejas-987/DSA/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tejas-987/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Tejas-987/DSA/tree/master/0165-compare-version-numbers) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Tejas-987/DSA/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Tejas-987/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-987/DSA/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tejas-987/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Tejas-987/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Tejas-987/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Tejas-987/DSA/tree/master/0264-ugly-number-ii) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Tejas-987/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Tejas-987/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Tejas-987/DSA/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tejas-987/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/Tejas-987/DSA/tree/master/0432-all-oone-data-structure) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tejas-987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tejas-987/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
