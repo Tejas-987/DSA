@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Tejas-987/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Tejas-987/DSA/tree/master/3817-maximum-containers-on-a-ship) |
 ## Dynamic Programming
 |  |
 | ------- |
