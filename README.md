@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Tejas-987/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2571-find-the-pivot-integer](https://github.com/Tejas-987/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Tejas-987/DSA/tree/master/2610-closest-prime-numbers-in-range) |
+| [2645-pass-the-pillow](https://github.com/Tejas-987/DSA/tree/master/2645-pass-the-pillow) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Tejas-987/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/Tejas-987/DSA/tree/master/1195-distribute-candies-to-people) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-987/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Tejas-987/DSA/tree/master/2155-find-missing-observations) |
+| [2645-pass-the-pillow](https://github.com/Tejas-987/DSA/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
 | ------- |
