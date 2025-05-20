@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Tejas-987/DSA/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Tejas-987/DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejas-987/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejas-987/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejas-987/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-987/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-987/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-987/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejas-987/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Tejas-987/DSA/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/Tejas-987/DSA/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/Tejas-987/DSA/tree/master/0807-custom-sort-string) |
