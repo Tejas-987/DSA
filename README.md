@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Tejas-987/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Tejas-987/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Tejas-987/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejas-987/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Tejas-987/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Tejas-987/DSA/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Tejas-987/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Tejas-987/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Tejas-987/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tejas-987/DSA/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Tejas-987/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Tejas-987/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tejas-987/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Tejas-987/DSA/tree/master/3548-find-the-count-of-good-integers) |
