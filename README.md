@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tejas-987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/Tejas-987/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejas-987/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Tejas-987/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2444-longest-ideal-subsequence](https://github.com/Tejas-987/DSA/tree/master/2444-longest-ideal-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejas-987/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tejas-987/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2444-longest-ideal-subsequence](https://github.com/Tejas-987/DSA/tree/master/2444-longest-ideal-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/Tejas-987/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejas-987/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Matrix
 |  |
 | ------- |
