@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tejas-987/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tejas-987/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Tejas-987/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Tejas-987/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Tejas-987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/Tejas-987/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Tejas-987/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Tejas-987/DSA/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Tejas-987/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Tejas-987/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Tejas-987/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-987/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-987/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Tejas-987/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Tejas-987/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tejas-987/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Tejas-987/DSA/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2444-longest-ideal-subsequence](https://github.com/Tejas-987/DSA/tree/master/2444-longest-ideal-subsequence) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Tejas-987/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tejas-987/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Tejas-987/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Tejas-987/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejas-987/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Tejas-987/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
@@ -837,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/Tejas-987/DSA/tree/master/0863-sum-of-distances-in-tree) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tejas-987/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Tejas-987/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Tejas-987/DSA/tree/master/2379-maximum-total-importance-of-roads) |
 ## Game Theory
 |  |
@@ -886,4 +891,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Tejas-987/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Tejas-987/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
