@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tejas-987/DSA/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Tejas-987/DSA/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Tejas-987/DSA/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/Tejas-987/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/Tejas-987/DSA/tree/master/0863-sum-of-distances-in-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tejas-987/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Tejas-987/DSA/tree/master/1285-balance-a-binary-search-tree) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Tejas-987/DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Tejas-987/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/Tejas-987/DSA/tree/master/0863-sum-of-distances-in-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tejas-987/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Tejas-987/DSA/tree/master/1285-balance-a-binary-search-tree) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Tejas-987/DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Tejas-987/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tejas-987/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Tejas-987/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tejas-987/DSA/tree/master/1484-linked-list-in-binary-tree) |
