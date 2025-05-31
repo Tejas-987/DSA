@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tejas-987/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Tejas-987/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tejas-987/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Tejas-987/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Tejas-987/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tejas-987/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0070-climbing-stairs) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejas-987/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Tejas-987/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tejas-987/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Tejas-987/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Tejas-987/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Tejas-987/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Tejas-987/DSA/tree/master/0072-edit-distance) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Tejas-987/DSA/tree/master/0062-unique-paths) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Tejas-987/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tejas-987/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3548-find-the-count-of-good-integers](https://github.com/Tejas-987/DSA/tree/master/3548-find-the-count-of-good-integers) |
